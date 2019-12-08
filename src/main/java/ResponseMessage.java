@@ -1,4 +1,3 @@
-package student.utils;
 
 /**
  * Created by cxr1205628673 on 2019/11/11.
